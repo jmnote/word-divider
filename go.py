@@ -18,7 +18,7 @@ if len(sys.argv) != 3:
 filename1 = sys.argv[1]
 filename2 = sys.argv[2]
 
-f1 = open(filename1, "r")
+f1 = open(filename1, "rt", encoding="UTF8")
 f2 = open(filename2, "w")
 
 print( f'=> input file: {filename1}' )
