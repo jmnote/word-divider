@@ -6,7 +6,6 @@ rules = [
 ['그곳에서','그 곳에서'],
 ]
 
-
 import re
 import sys
 
