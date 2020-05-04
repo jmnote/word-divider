@@ -1,5 +1,6 @@
 # word-divider
 
+## 윈도우 실행 예시
 ```
 C:\word-divider-master>chcp 65001
 Active code page: 65001
